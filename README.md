@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Welcome Friend ✨ I'm Joshua </h1>
-  <p>Come in, grab some coffee</p>
+  <p>Come in, grab some coffee while reading this blog.</p>
   <img src="https://media.giphy.com/media/zZ93Wx8zrX2XAQVTiy/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/joshuaherreracenteno/">
