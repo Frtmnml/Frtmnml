@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Costa Rica.
 
-- :telescope: I’m working as a Email Developer and sometimes contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Email Developer and sometimes doing funny stuff with other technologies.
 - :seedling: Exploring Cloud.
 - :zap: In my free time, I create content and read tech articles.
 
