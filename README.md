@@ -20,7 +20,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m working as a Email Developer and sometimes doing funny stuff with other technologies.
 - :seedling: Exploring Cloud.
-- :zap: In my free time, I create content and read tech articles.
+- :zap: In my free time, I create music.
 
 ---
 
